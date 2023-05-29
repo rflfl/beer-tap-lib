@@ -11,10 +11,10 @@
   "devDependencies": {
     "@types/node": "^18",
     "nuxt": "^3.5.1",
-    "nuxt-quasar-ui": "^1.7.3"
+    "sass": "^1.62.1"
   },
   "dependencies": {
-    "@quasar/extras": "^1.16.4",
-    "quasar": "^2.12.0"
+    "@headlessui/vue": "^1.7.13",
+    "@heroicons/vue": "^2.0.18"
   }
 }
